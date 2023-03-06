@@ -33,7 +33,6 @@
         <!-- Build an executable JAR -->
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-war-plugin</artifactId>
-        <packaging>war</packaging>
         <version>3.3.0</version>
         <configuration>
           <archive>
